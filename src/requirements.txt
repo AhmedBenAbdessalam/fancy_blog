@@ -10,7 +10,7 @@ Django==2.2.20
 django-allauth==0.42.0
 django-crispy-forms==1.9.1
 django-tinymce4-lite==1.8.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 docutils==0.16
 filelock==3.0.12
 idna==2.9
